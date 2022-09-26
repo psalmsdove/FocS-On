@@ -3,7 +3,7 @@ A timer-focusing app for iOS
 
 # Welcome to Focs On!
 
-Focs On is an app -developed with only SwiftUI- to help you focus on your work or job. You can use classic Pomodoro timing or 
+Focs On is an app -**developed with only SwiftUI**- to help you focus on your work or job. You can use classic Pomodoro timing or 
 you can use our suggested settings which is 90 minutes study, 25 minutes break.
 
 
