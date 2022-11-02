@@ -14,3 +14,8 @@ I will add more functionalities as soon as possible and keep the app updated wit
 # Languages
 Currently it is just English, but you can translate the app into any language.
 
+<p float="left">
+<img src="https://user-images.githubusercontent.com/48603868/199544019-3d0028d9-af0d-4880-8542-84f6ef001086.png">
+
+<img src="https://user-images.githubusercontent.com/48603868/199544030-12146060-c508-4e45-ad09-a64978b55ab3.png">
+</p>
